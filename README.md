@@ -9,18 +9,18 @@ Welcome to my certification archive! This repository contains all my verified ce
 - 📜 [Data Science Certification – EXCELR (Mar 2025)](https://github.com/DnyaneeshwarK25/Certificates/blob/main/Data%20science/Data%20science%20certificate%20excelr.pdf)
   - Completed with distinction
 
-- 📜 [Data Analyst Certification – EXCELR (Jul 2024)](https://github.com/DnyaneeshwarK25/Certificates/blob/main/Excelr%20data%20analyst.pdf)
+- 📜 [Data Analyst Certification – EXCELR (Jul 2024)](https://github.com/DnyaneeshwarK25/Certificates/blob/main/Data%20science/Excelr%20data%20analyst.pdf)
   - Completed with distinction
 
 ---
 
 ## 🧪 Internship Experiences
 
-- 💼 [Data Analytics Virtual Internship – AI Variant (Feb–May 2024)](https://github.com/DnyaneeshwarK25/Certificates/blob/main/AI%20variant%20internship%20certificate%20.pdf)
+- 💼 [Data Analytics Virtual Internship – AI Variant (Feb–May 2024)](https://github.com/DnyaneeshwarK25/Certificates/blob/main/Internships/AI%20variant%20internship%20certificate%20.pdf)
 
-- 💼 [Data Visualization: Empowering Business with Effective Insights – Tata Group (Jul 2024)](https://github.com/DnyaneeshwarK25/Certificates/blob/main/Tata%20Group%20completion_certificate.pdf)
+- 💼 [Data Visualization: Empowering Business with Effective Insights – Tata Group (Jul 2024)](https://github.com/DnyaneeshwarK25/Certificates/blob/main/Internships/Tata%20Group%20completion_certificate.pdf)
 
-- 💼 [Data Analytics & Visualization Job Simulation – Accenture (Jul 2024)](https://github.com/DnyaneeshwarK25/Certificates/blob/main/Accenture%20data%20analytics%20and%20visualization%20vitural%20intership.pdf)  
+- 💼 [Data Analytics & Visualization Job Simulation – Accenture (Jul 2024)](https://github.com/DnyaneeshwarK25/Certificates/blob/main/Internships/Accenture%20data%20analytics%20and%20visualization%20vitural%20intership.pdf)  
   - Practical tasks in data cleaning, modeling, visualization, and storytelling
 
 ---
