@@ -6,7 +6,7 @@ Welcome to my certification archive! This repository contains all my verified ce
 
 ## 🎓 Core Certifications
 
-- 📜 [Data Science Certification – EXCELR (Mar 2025)](https://github.com/DnyaneeshwarK25/Certificates/blob/main/Data%20science%20certificate%20excelr.pdf)
+- 📜 [Data Science Certification – EXCELR (Mar 2025)](https://github.com/DnyaneeshwarK25/Certificates/blob/main/Data%20science/Data%20science%20certificate%20excelr.pdf)
   - Completed with distinction
 
 - 📜 [Data Analyst Certification – EXCELR (Jul 2024)](https://github.com/DnyaneeshwarK25/Certificates/blob/main/Excelr%20data%20analyst.pdf)
